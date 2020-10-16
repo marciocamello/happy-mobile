@@ -1,6 +1,6 @@
 # Happy Mobile - #NLW3
 
-![alt text](https://github.com/marciocamello/happy-mobile/blob/master/docs/layout.jpg)
+![alt text](https://github.com/marciocamello/happy-mobile/blob/master/layout.jpg)
 
 ---
 
